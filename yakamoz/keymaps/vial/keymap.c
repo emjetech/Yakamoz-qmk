@@ -189,7 +189,7 @@ static const char PROGMEM star_wars_darth_vader[] = {0x00, 0x00, 0x00, 0x00, 0x0
 
 bool render_status(void) {
     oled_set_cursor(0, 0);
-    oled_write_raw_P(vs_code, sizeof(vs_code));
+    oled_write_raw_P(star_wars_hunter, sizeof(star_wars_hunter));
     oled_set_cursor(0, 9);
     oled_write_P(PSTR("L: "), false);
 
