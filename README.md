@@ -16,3 +16,4 @@
 ---
 [Yakamoz Keyboard](https://github.com/ozkan/yakamoz)        
 [Parts List and Build Guide](https://ozkancelik.com/yakamoz/)    
+
